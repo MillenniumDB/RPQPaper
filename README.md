@@ -47,7 +47,7 @@ These instructions works on Ubuntu 20.04. Other linux distributions might need t
     - `bash scripts/benchmark_wdbench_paths_mdb.sh`
 
 - Run diamond1000 benchmark:
-    - Edit the param `RPQ_PAPER_HOME` in `scripts/benchmark_wdbench_paths_mdb.sh` and `scripts/benchmark_wdbench_paths_mdb.py`
+    - Edit the param `RPQ_PAPER_HOME` in `scripts/benchmark_diamond_mdb.py`
     - The script needs to be executed as root user to clear the cache of the operating system:
         - `sudo su -`
     - change directory to `$RPQ_PAPER_HOME`
