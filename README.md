@@ -10,7 +10,7 @@ TODO: link to extended version:
 - Enter to this project root directory
     - `cd RPQPaper`
 
-- Set PMR_HOME with the path of this project root directory
+- Set RPQ_PAPER_HOME with the path of this project root directory
     - `export RPQ_PAPER_HOME=$(pwd)`
 
 ## MillenniumDB
