@@ -2,8 +2,7 @@ This repository has the source code and the scripts user for the experiments in 
 
 **Evaluating Regular Path Queries in GQL and SQL/PGQ: How Far Can The Classical Algorithms Take Us?**
 
-Extended version of the paper: Paper_extended.pdf
-
+Extended version of the paper: [here](https://github.com/MillenniumDB/RPQPaper/blob/master/Paper_extended.pdf)
 # Replicating the experiments
 
 - Clone this repo
